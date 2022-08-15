@@ -1,3 +1,24 @@
+# Todo App
+
+Landing Page 
+![image](https://user-images.githubusercontent.com/1377429/184583480-bb53ef2b-67cc-4203-a786-a9e56f6b5d7a.png)
+
+
+
+## Add Task, Duration and Click Add Task 
+
+![image](https://user-images.githubusercontent.com/1377429/184583580-027d770a-18f8-4bb9-8e6c-f8c3d1d979ef.png)
+
+
+## Tasks can be cancelled by clicking X on the right of each task
+
+![image](https://user-images.githubusercontent.com/1377429/184583623-6161eb0a-8715-4edb-8acb-49929f22fd80.png)
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
